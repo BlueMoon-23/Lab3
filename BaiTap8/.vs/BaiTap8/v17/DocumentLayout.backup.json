@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Office\\source\\repos\\Lab3\\BaiTap8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF36ECC5-A09E-47A3-99DC-705A1DCF239B}|BaiTap8\\BaiTap8.vcxproj|C:\\Users\\Office\\source\\repos\\Lab3\\BaiTap8\\BaiTap8\\DSNhanVien.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF36ECC5-A09E-47A3-99DC-705A1DCF239B}|BaiTap8\\BaiTap8.vcxproj|solutionrelative:BaiTap8\\DSNhanVien.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF36ECC5-A09E-47A3-99DC-705A1DCF239B}|BaiTap8\\BaiTap8.vcxproj|C:\\Users\\Office\\source\\repos\\Lab3\\BaiTap8\\BaiTap8\\BaiTap8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF36ECC5-A09E-47A3-99DC-705A1DCF239B}|BaiTap8\\BaiTap8.vcxproj|solutionrelative:BaiTap8\\BaiTap8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF36ECC5-A09E-47A3-99DC-705A1DCF239B}|BaiTap8\\BaiTap8.vcxproj|C:\\Users\\Office\\source\\repos\\Lab3\\BaiTap8\\BaiTap8\\Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF36ECC5-A09E-47A3-99DC-705A1DCF239B}|BaiTap8\\BaiTap8.vcxproj|solutionrelative:BaiTap8\\Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF36ECC5-A09E-47A3-99DC-705A1DCF239B}|BaiTap8\\BaiTap8.vcxproj|C:\\Users\\Office\\source\\repos\\Lab3\\BaiTap8\\BaiTap8\\Date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF36ECC5-A09E-47A3-99DC-705A1DCF239B}|BaiTap8\\BaiTap8.vcxproj|solutionrelative:BaiTap8\\Date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF36ECC5-A09E-47A3-99DC-705A1DCF239B}|BaiTap8\\BaiTap8.vcxproj|C:\\Users\\Office\\source\\repos\\Lab3\\BaiTap8\\BaiTap8\\cNhanVienSX.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF36ECC5-A09E-47A3-99DC-705A1DCF239B}|BaiTap8\\BaiTap8.vcxproj|solutionrelative:BaiTap8\\cNhanVienSX.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF36ECC5-A09E-47A3-99DC-705A1DCF239B}|BaiTap8\\BaiTap8.vcxproj|C:\\Users\\Office\\source\\repos\\Lab3\\BaiTap8\\BaiTap8\\cNhanVienSX.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF36ECC5-A09E-47A3-99DC-705A1DCF239B}|BaiTap8\\BaiTap8.vcxproj|solutionrelative:BaiTap8\\cNhanVienSX.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\new_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF36ECC5-A09E-47A3-99DC-705A1DCF239B}|BaiTap8\\BaiTap8.vcxproj|C:\\Users\\Office\\source\\repos\\Lab3\\BaiTap8\\BaiTap8\\DSNhanVien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF36ECC5-A09E-47A3-99DC-705A1DCF239B}|BaiTap8\\BaiTap8.vcxproj|solutionrelative:BaiTap8\\DSNhanVien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "new_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-18T17:44:31.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Date.h",
+              "DocumentMoniker": "C:\\Users\\Office\\source\\repos\\Lab3\\BaiTap8\\BaiTap8\\Date.h",
+              "RelativeDocumentMoniker": "BaiTap8\\Date.h",
+              "ToolTip": "C:\\Users\\Office\\source\\repos\\Lab3\\BaiTap8\\BaiTap8\\Date.h",
+              "RelativeToolTip": "BaiTap8\\Date.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-18T15:53:09.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Date.cpp",
+              "DocumentMoniker": "C:\\Users\\Office\\source\\repos\\Lab3\\BaiTap8\\BaiTap8\\Date.cpp",
+              "RelativeDocumentMoniker": "BaiTap8\\Date.cpp",
+              "ToolTip": "C:\\Users\\Office\\source\\repos\\Lab3\\BaiTap8\\BaiTap8\\Date.cpp",
+              "RelativeToolTip": "BaiTap8\\Date.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-18T15:53:37.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cNhanVienSX.h",
+              "DocumentMoniker": "C:\\Users\\Office\\source\\repos\\Lab3\\BaiTap8\\BaiTap8\\cNhanVienSX.h",
+              "RelativeDocumentMoniker": "BaiTap8\\cNhanVienSX.h",
+              "ToolTip": "C:\\Users\\Office\\source\\repos\\Lab3\\BaiTap8\\BaiTap8\\cNhanVienSX.h",
+              "RelativeToolTip": "BaiTap8\\cNhanVienSX.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-18T15:53:20.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cNhanVienSX.cpp",
+              "DocumentMoniker": "C:\\Users\\Office\\source\\repos\\Lab3\\BaiTap8\\BaiTap8\\cNhanVienSX.cpp",
+              "RelativeDocumentMoniker": "BaiTap8\\cNhanVienSX.cpp",
+              "ToolTip": "C:\\Users\\Office\\source\\repos\\Lab3\\BaiTap8\\BaiTap8\\cNhanVienSX.cpp",
+              "RelativeToolTip": "BaiTap8\\cNhanVienSX.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-18T15:53:36.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DSNhanVien.h",
+              "DocumentMoniker": "C:\\Users\\Office\\source\\repos\\Lab3\\BaiTap8\\BaiTap8\\DSNhanVien.h",
+              "RelativeDocumentMoniker": "BaiTap8\\DSNhanVien.h",
+              "ToolTip": "C:\\Users\\Office\\source\\repos\\Lab3\\BaiTap8\\BaiTap8\\DSNhanVien.h",
+              "RelativeToolTip": "BaiTap8\\DSNhanVien.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-18T15:53:30.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DSNhanVien.cpp",
+              "DocumentMoniker": "C:\\Users\\Office\\source\\repos\\Lab3\\BaiTap8\\BaiTap8\\DSNhanVien.cpp",
+              "RelativeDocumentMoniker": "BaiTap8\\DSNhanVien.cpp",
+              "ToolTip": "C:\\Users\\Office\\source\\repos\\Lab3\\BaiTap8\\BaiTap8\\DSNhanVien.cpp",
+              "RelativeToolTip": "BaiTap8\\DSNhanVien.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-18T15:53:37.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaiTap8.cpp",
+              "DocumentMoniker": "C:\\Users\\Office\\source\\repos\\Lab3\\BaiTap8\\BaiTap8\\BaiTap8.cpp",
+              "RelativeDocumentMoniker": "BaiTap8\\BaiTap8.cpp",
+              "ToolTip": "C:\\Users\\Office\\source\\repos\\Lab3\\BaiTap8\\BaiTap8\\BaiTap8.cpp",
+              "RelativeToolTip": "BaiTap8\\BaiTap8.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-18T15:13:31.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

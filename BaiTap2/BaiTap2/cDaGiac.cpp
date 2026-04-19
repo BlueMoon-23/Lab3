@@ -19,7 +19,7 @@ cDaGiac::cDaGiac(const cDaGiac& A) {
 	aDSDiem = A.aDSDiem;
 }
 
-// Nhập tam giác
+// Nhập đa giác
 void cDaGiac::Nhap() {
 	cout << "Nhap so dinh cua da giac: ";
 	cin >> iSoDinh;
@@ -31,10 +31,10 @@ void cDaGiac::Nhap() {
 	}
 }
 
-// Xuất tam giác
+// Xuất đa giác
 void cDaGiac::Xuat() {
+	cout << "Danh sach diem: ";
 	for (int i = 0; i < iSoDinh; i++) {
-		cout << "Danh sach diem: ";
 		aDSDiem[i].Xuat();
 		cout << ", ";
 	}
@@ -52,6 +52,10 @@ Diem ToaDoTam(vector<Diem> DSDiem) {
 
 // Kiểm tra tam giác là tam giác đều, cân, vuông, thường, hay không phải tam giác
 void cDaGiac::KiemTra() {
+	if (DienTich() == 0) { // Kiểm tra thẳng hàng
+		cout << "Cac diem thang hang, khong phai da giac";
+		return;
+	}
 	// Kiểm tra độ dài các cạnh, nếu có 1 cạnh khác cạnh ban đầu thì đa giác đó là đa giác thường
 	double KetQuaDauTien = aDSDiem[0].DoDai(aDSDiem[1]);;
 	for (int i = 1; i < iSoDinh; i++) {
@@ -75,7 +79,7 @@ void cDaGiac::KiemTra() {
 	cout << "Da giac deu";
 }
 
-// Trả về chu vi của tam giác
+// Trả về chu vi của đa giác
 double cDaGiac::ChuVi() {
 	double ChuVi = 0;
 	for (int i = 0; i < iSoDinh; i++) {
@@ -85,7 +89,7 @@ double cDaGiac::ChuVi() {
 	return ChuVi;
 }
 
-// Trả về diện tích của tam giác
+// Trả về diện tích của đa giác
 double cDaGiac::DienTich() {
 	double DienTich = 0;
 	for (int i = 0; i < iSoDinh; i++) {
@@ -96,21 +100,21 @@ double cDaGiac::DienTich() {
 	return abs(DienTich) / 2;
 }
 
-// Tịnh tiến tam giác theo tọa độ vector
+// Tịnh tiến đa giác theo tọa độ vector
 void cDaGiac::TinhTien(const Diem& Vector) {
 	for (int i = 0; i < iSoDinh; i++) {
 		aDSDiem[i].TinhTien(Vector);
 	}
 }
 
-// Quay tam giác quanh gốc tọa độ theo góc quay GocQuay đơn vị độ
+// Quay đa giác quanh gốc tọa độ theo góc quay GocQuay đơn vị độ
 void cDaGiac::Quay(const double& GocQuay) {
 	for (int i = 0; i < iSoDinh; i++) {
 		aDSDiem[i].Quay(GocQuay);
 	}
 }
 
-// Phóng to điểm này theo gốc là trọng tâm của tam giác với tỷ lệ TyLe
+// Phóng to điểm này theo gốc là trọng tâm của đa giác với tỷ lệ TyLe
 void cDaGiac::PhongTo(const double& TyLe) {
 	Diem Tam = ToaDoTam(aDSDiem);
 	for (int i = 0; i < iSoDinh; i++) {
@@ -118,7 +122,7 @@ void cDaGiac::PhongTo(const double& TyLe) {
 	}
 }
 
-// Thu nhỏ điểm này theo gốc là trọng tâm của tam giác với tỷ lệ TyLe
+// Thu nhỏ điểm này theo gốc là trọng tâm của đa giác với tỷ lệ TyLe
 void cDaGiac::ThuNho(const double& TyLe) {
 	Diem Tam = ToaDoTam(aDSDiem);
 	for (int i = 0; i < iSoDinh; i++) {

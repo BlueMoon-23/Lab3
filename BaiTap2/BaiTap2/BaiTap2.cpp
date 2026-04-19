@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 #include "cDaGiac.h"
 
 int main()
@@ -34,5 +34,4 @@ int main()
     DaGiac.ThuNho(TyLeThuNho);
     cout << "\nDa giac sau khi thu nho: ";
     DaGiac.Xuat();
-
 }

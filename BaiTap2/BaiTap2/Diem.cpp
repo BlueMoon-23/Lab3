@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 #include <math.h>
 #include "Diem.h"
+#include <iomanip>
 using namespace std;
 
 // Phương thức thiết lập mặc định
@@ -26,8 +27,9 @@ void Diem::Nhap() {
 	cin >> x >> y;
 }
 
-// Xuất 1 điểm
+// Xuất 1 điểm (làm tròn đến 2 chữ số thập phân)
 void Diem::Xuat() {
+	cout << fixed << setprecision(2);
 	cout << '(' << x << ", " << y << ')';
 }
 
