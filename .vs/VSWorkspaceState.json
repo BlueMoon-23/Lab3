@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BaiTap1",
+    "\\BaiTap1\\BaiTap1",
+    "\\BaiTap2",
+    "\\BaiTap4",
+    "\\BaiTap5",
+    "\\BaiTap8"
   ],
+  "SelectedNode": "\\BaiTap1\\BaiTap1\\Diem.h",
   "PreviewInSolutionExplorer": false
 }

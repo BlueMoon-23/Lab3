@@ -1,4 +1,2 @@
-﻿  cArray.cpp
-C:\Users\Office\source\repos\BaiTap4\BaiTap4\cArray.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\Office\source\repos\BaiTap4\BaiTap4\cArray.cpp(92,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-  BaiTap4.vcxproj -> C:\Users\Office\source\repos\BaiTap4\x64\Debug\BaiTap4.exe
+﻿  main.cpp
+  BaiTap4.vcxproj -> C:\Users\DELL\source\repos\Lab3\BaiTap4\x64\Debug\BaiTap4.exe
